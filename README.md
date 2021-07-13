@@ -16,3 +16,4 @@ You can access the webpage at: https://yanmaciel.github.io/harvard-cs50-trivia/
   
 # What I learned
 Despite being a simple webpage, in this exercise I could see how HTML, CSS and JavaScript work together to design interactive webpages and web applications.
+
