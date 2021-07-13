@@ -5,7 +5,7 @@ It is not reasonable to access a solution to some assessement prior to (re-)subm
 
 The essence of all work that you submit to the CS50 course **must be your own**. 
 
-# Trivia
+# CS50'S Trivia
 In this exercise we needed to create and design a webpage that lets the users answer trivia questions.
 
 # Created with 
